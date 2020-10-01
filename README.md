@@ -1,1 +1,1 @@
-# Background-Generator
+# Background-Generator name added
